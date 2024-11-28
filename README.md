@@ -26,13 +26,14 @@ A modern, responsive portfolio website built with React, Vite, and Tailwind CSS.
 1. Clone the repository:
 ```bash
 git clone https://github.com/adityarai11/portfolio.git
-
+```
 
 1.Start the development server:
-
-
+```bash
 npm run dev
-🔧 Available Scripts
+```
+
+## 🔧 Available Scripts
 npm run dev - Starts the development server
 npm run build - Creates a production build
 npm run preview - Preview the production build
