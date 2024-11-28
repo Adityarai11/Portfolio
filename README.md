@@ -24,10 +24,12 @@ A modern, responsive portfolio website built with React, Vite, and Tailwind CSS.
 ## 📦 Installation
 
 1. Clone the repository:
-
+```bash
 git clone https://github.com/adityarai11/portfolio.git
 
+
 1.Start the development server:
+
 
 npm run dev
 🔧 Available Scripts
@@ -36,7 +38,7 @@ npm run build - Creates a production build
 npm run preview - Preview the production build
 npm run lint - Run ESLint to check code quality
 
-📁 Project Structure
+## 📁 Project Structure
 
 portfolio/
 ├── src/
@@ -48,7 +50,7 @@ portfolio/
 ├── public/             # Public assets
 └── package.json        # Project dependencies and scripts
 
-🎯 Components
+## 🎯 Components
 
 Navbar: Navigation bar with logo and social media links
 Hero: Landing section with introduction
@@ -58,26 +60,25 @@ Experience: Professional experience timeline
 Projects: Showcase of personal and professional projects
 Contact: Contact information and details
 
-🎨 Customization
+## 🎨 Customization
 Update personal information in /src/constants/index.js
 Modify styling using Tailwind classes or update /src/index.css
 Add/remove components in /src/App.jsx
 Update images in the /src/assets directory
 
-🌐 Browser Support
+## 🌐 Browser Support
 The portfolio website is compatible with the following browsers:
 
 Chrome (latest)
 Firefox (latest)
 Safari (latest)
 Edge (latest)
-📄 License
-This project is open source and available under the MIT License.
 
-👤 Author
+
+## 👤 Author
 Created by Aditya Rai
 
-🤝 Contributing
+## 🤝 Contributing
 Contributions, issues, and feature requests are welcome! Feel free to check the issues page.
 
 Fork the repository
