@@ -67,26 +67,5 @@ Modify styling using Tailwind classes or update /src/index.css
 Add/remove components in /src/App.jsx
 Update images in the /src/assets directory
 
-## 🌐 Browser Support
-The portfolio website is compatible with the following browsers:
-
-Chrome (latest)
-Firefox (latest)
-Safari (latest)
-Edge (latest)
-
-
 ## 👤 Author
 Created by Aditya Rai
-
-## 🤝 Contributing
-Contributions, issues, and feature requests are welcome! Feel free to check the issues page.
-
-Fork the repository
-Create your feature branch (git checkout -b feature/AmazingFeature)
-Commit your changes (git commit -m 'Add some AmazingFeature')
-Push to the branch (git push origin feature/AmazingFeature)
-Open a Pull Request
-Copy code
-
-This README provides a comprehensive overview of the project, including installation instructions, available scripts, project
