@@ -1,4 +1,4 @@
-import logo from "../assets/adityaRaiProfile.webp";
+import logo from "../assets/logo.webn";
 import { FaLinkedin, FaGithub, FaTwitter, FaInstagram } from "react-icons/fa";
 
 const Navbar = () => {
