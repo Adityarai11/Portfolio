@@ -1,4 +1,4 @@
-import logo from "../assets/logo.webn";
+import logo from "../assets/logo.webp";
 import { FaLinkedin, FaGithub, FaTwitter, FaInstagram } from "react-icons/fa";
 
 const Navbar = () => {
