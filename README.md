@@ -40,7 +40,7 @@ npm run preview - Preview the production build
 npm run lint - Run ESLint to check code quality
 
 ## 📁 Project Structure
-
+```bash
 portfolio/
 ├── src/
 │   ├── assets/         # Images and static assets
@@ -50,7 +50,7 @@ portfolio/
 │   └── index.css       # Global styles
 ├── public/             # Public assets
 └── package.json        # Project dependencies and scripts
-
+```
 ## 🎯 Components
 
 Navbar: Navigation bar with logo and social media links

@@ -4,18 +4,18 @@ import { FaLinkedin, FaGithub, FaTwitter, FaInstagram } from "react-icons/fa";
 const Navbar = () => {
   // Define the social media URLs
   const socialLinks = {
-    linkedin: "https://www.linkedin.com/in/your-profile", // Replace with your LinkedIn profile link
-    github: "https://github.com/your-profile",           // Replace with your GitHub profile link
-    twitter: "https://twitter.com/your-profile",         // Replace with your Twitter profile link
-    instagram: "https://www.instagram.com/your-profile"  // Replace with your Instagram profile link
+    linkedin: "https://www.linkedin.com/in/aditya-rai2003", // Replace with your LinkedIn profile link
+    github: "https://github.com/Adityarai11",             // Replace with your GitHub profile link
+    twitter: "https://x.com/Adityarai1111?t=TINKufCtaRqtzqeVdIJr7w&s=09", // Replace with your Twitter profile link
+    instagram: "https://www.instagram.com/adirai_adi/profilecard/?igsh=MWRub2UzdTYyNWJraw==", // Replace with your Instagram profile link
   };
 
-  // Function for handling logo click (if needed)
+  // Function for handling logo click to refresh the page
   const handleLogoClick = () => {
-    window.location.href = socialLinks.linkedin;  // Navigate to LinkedIn or any default URL
+    window.location.reload(); // Reloads the current page
   };
 
-  return ( 
+  return (
     <nav className="mb-20 flex items-center justify-between py-6">
       {/* Logo */}
       <div className="flex flex-shrink-0 items-center cursor-pointer" onClick={handleLogoClick}>
@@ -39,6 +39,6 @@ const Navbar = () => {
       </div>
     </nav>
   );
-}
+};
 
 export default Navbar;
