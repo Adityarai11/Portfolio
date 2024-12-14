@@ -16,7 +16,7 @@ export const EXPERIENCES = [
     technologies: ["Javascript", "React.js", "Next.js", "mongoDB"],
   },
   {
-    year: "2022 - 2023",
+    year: "2023 - 2023",
     role: "Backend Developer",
     company: "BLOTIC",
     description: `Designed and developed user interfaces for web applications using Next.js and React. Worked closely with backend developers to integrate frontend components with Node.js APIs. Implemented responsive designs and optimized frontend performance.`,
@@ -28,6 +28,7 @@ export const PROJECTS = [
   {
     title: "E-Commerce Website",
     image: project1,
+    url: "https://your-ecommerce-url.com", // Add URL
     description:
       "A fully functional e-commerce website with features like product listing, shopping cart, and user authentication.",
     technologies: ["HTML", "CSS", "React", "Node.js", "MongoDB"],
@@ -35,6 +36,7 @@ export const PROJECTS = [
   {
     title: "GoCab",
     image: project2,
+    url: "https://your-gocab-url.com", // Add URL
     description:
       "An application for managing tasks and projects, with features such as task creation, assignment, and progress tracking.",
     technologies: ["HTML", "CSS", "Angular", "Firebase"],
@@ -42,6 +44,7 @@ export const PROJECTS = [
   {
     title: "Portfolio Website",
     image: project3,
+    url: "https://your-portfolio-url.com", // Add URL
     description:
       "A personal portfolio website showcasing projects, skills, and contact information.",
     technologies: ["HTML", "CSS", "React", "Bootstrap"],
@@ -49,12 +52,12 @@ export const PROJECTS = [
   {
     title: "Blogging Platform",
     image: project4,
+    url: "https://your-blog-url.com", // Add URL
     description:
       "A platform for creating and publishing blog posts, with features like rich text editing, commenting, and user profiles.",
     technologies: ["HTML", "CSS", "Vue.js", "Express", "mySQL"],
   },
 ];
-
 export const CONTACT = {
   address: "Pune ",
   phoneNo: "+91 9000000000",
