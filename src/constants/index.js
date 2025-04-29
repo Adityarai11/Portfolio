@@ -59,7 +59,8 @@ export const PROJECTS = [
   },
 ];
 export const CONTACT = {
-  address: "Pune ",
+  address: "Pune",
   phoneNo: "+91 9354180635",
   email: "Raiaditya7982@gmail.com",
+  whatsAppLink: "https://wa.me/919354180635",
 };
