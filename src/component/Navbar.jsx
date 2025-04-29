@@ -37,4 +37,12 @@ const Navbar = () => {
         <a href={socialLinks.twitter} target="_blank" rel="noopener noreferrer">
           <FaTwitter />
         </a>
-        <a href={socialLinks.whatsapp} target="
+        <a href={socialLinks.whatsapp} target="_blank" rel="noopener noreferrer">
+          <FaWhatsapp />
+        </a>
+      </div>
+    </nav>
+  );
+};
+
+export default Navbar;
